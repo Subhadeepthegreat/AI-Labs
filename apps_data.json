@@ -2,7 +2,7 @@
   "apps": [
     {
       "name": "Talk2Table",
-      "description": "Talk to any table or databases (SQL or Excel) using Natural Language",
+      "description": "Talk to any table or databases (SQL and Excel) using Natural Language",
       "image": "images/talk2table_icon.png",
       "status": "Alpha",
       "link": "https://talk2table-bl6yddtwmljrues3cea5rg.streamlit.app/"
