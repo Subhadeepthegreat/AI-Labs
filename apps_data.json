@@ -8,18 +8,18 @@
       "link": "https://talk2table-bl6yddtwmljrues3cea5rg.streamlit.app/"
     },
     {
-      "name": "Image Recognition Studio",
-      "description": "Advanced computer vision app for object detection, classification, and image analysis.",
+      "name": "MailMind",
+      "description": "Turn messy emails into actionable data - automatically",
       "image": "https://via.placeholder.com/150x150/2196F3/white?text=IMG",
-      "status": "Alpha",
-      "link": "https://your-streamlit-app2.streamlit.app"
+      "status": "Coming Soon",
+      "link": "#"
     },
     {
-      "name": "Chatbot Builder",
-      "description": "Create and deploy custom chatbots with natural language understanding capabilities.",
+      "name": "Anonify",
+      "description": "Smart anonymization for sensitive data",
       "image": "https://via.placeholder.com/150x150/FF9800/white?text=BOT",
-      "status": "Beta",
-      "link": "https://your-streamlit-app3.streamlit.app"
+      "status": "Coming Soon",
+      "link": "#"
     }
   ]
 }
