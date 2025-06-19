@@ -3,7 +3,7 @@
     {
       "name": "Talk2Table",
       "description": "Talk to any table or databases (SQL or Excel) using Natural Language",
-      "image": "images/ChatGPT Image Apr 29, 2025, 01_12_56 PM.png",
+      "image": "images/talk2table_icon.png",
       "status": "Alpha",
       "link": "https://talk2table-bl6yddtwmljrues3cea5rg.streamlit.app/"
     },
