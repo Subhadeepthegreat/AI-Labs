@@ -20,27 +20,6 @@
       "image": "https://via.placeholder.com/150x150/FF9800/white?text=BOT",
       "status": "Beta",
       "link": "https://your-streamlit-app3.streamlit.app"
-    },
-    {
-      "name": "Sentiment Analysis Tool",
-      "description": "Analyze emotions and sentiments in text data with real-time processing and visualization.",
-      "image": "https://via.placeholder.com/150x150/E91E63/white?text=EMO",
-      "status": "PreAlpha",
-      "link": "https://your-streamlit-app4.streamlit.app"
-    },
-    {
-      "name": "AI Code Generator",
-      "description": "Generate, optimize, and debug code using AI-powered assistance across multiple programming languages.",
-      "image": "https://via.placeholder.com/150x150/9C27B0/white?text=CODE",
-      "status": "Coming Soon",
-      "link": "#"
-    },
-    {
-      "name": "Data Visualization Engine",
-      "description": "Transform raw data into beautiful, interactive visualizations with AI-suggested chart types.",
-      "image": "https://via.placeholder.com/150x150/607D8B/white?text=VIZ",
-      "status": "Alpha",
-      "link": "https://your-streamlit-app6.streamlit.app"
     }
   ]
 }
