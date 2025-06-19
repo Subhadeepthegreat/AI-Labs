@@ -1,11 +1,11 @@
 {
   "apps": [
     {
-      "name": "AI Text Summarizer",
-      "description": "Intelligent text summarization using advanced NLP models. Perfect for condensing long documents into key insights.",
+      "name": "Talk2Table",
+      "description": "Talk to any table or databases (SQL or Excel) using Natural Language",
       "image": "https://via.placeholder.com/150x150/4CAF50/white?text=TXT",
-      "status": "Beta",
-      "link": "https://your-streamlit-app1.streamlit.app"
+      "status": "Alpha",
+      "link": "https://talk2table-bl6yddtwmljrues3cea5rg.streamlit.app/"
     },
     {
       "name": "Image Recognition Studio",
