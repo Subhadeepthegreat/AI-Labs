@@ -8,6 +8,13 @@
       "link": "https://talk2table-kp2wamewtvakf8vlemzoa3.streamlit.app/"
     },
     {
+      "name": "askHR",
+      "description": "Your AI HR Companion: Instant Answers, Zero Hassle – Policies Simplified in Seconds",
+      "image": "images/askhr_logo1.png",
+      "status": "Alpha",
+      "link": "https://askhr-app.streamlit.app/"
+    },
+    {
       "name": "MailMind",
       "description": "Turn messy emails into actionable data - automatically",
       "image": "https://via.placeholder.com/150x150/2196F3/white?text=IMG",
