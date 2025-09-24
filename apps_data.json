@@ -17,7 +17,7 @@
     {
       "name": "MailMind",
       "description": "Turn messy emails into actionable data - automatically",
-      "image": "images/MailMind.png",
+      "image": "images/MailMind_small.png",
       "status": "Coming Soon",
       "link": "#"
     },
@@ -30,4 +30,5 @@
     }
   ]
 }
+
 
