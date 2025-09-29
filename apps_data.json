@@ -19,7 +19,7 @@
       "description": "Turn messy emails into actionable data - automatically",
       "image": "images/MailMind_small.png",
       "status": "Alpha",
-      "link": "mailmind-czpoh43doevfdxy6fhygkd.streamlit.app"
+      "link": "https://mailmind-czpoh43doevfdxy6fhygkd.streamlit.app/"
     },
     {
       "name": "Anonify",
@@ -30,6 +30,7 @@
     }
   ]
 }
+
 
 
 
